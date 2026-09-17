@@ -31,3 +31,10 @@ This project was completed as part of an online Power BI course.
 ## Dashboard
 
 Interactive Power BI dashboard designed to explore online course performance, pricing, and learner engagement.
+![Dashboard Page 1](Screenshot%202026-09-16%20094942.png)
+
+![Dashboard Page 2](Screenshot%202026-09-16%20100007.png)
+
+![Dashboard Page 3](Screenshot%202026-09-16%20100521.png)
+
+![Dashboard Page 4](Screenshot%202026-09-17%20112943.png)
